@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveendeshmane&label=Profile%20views&color=0e75b6&style=flat" alt="praveendeshmane" /> </p>
 
 - 🔭 I’m currently working on [IM-830](https://www.figinc.jp/news/37738/)
-- 🌱 I’m currently learning **AI with Machine Learning, Japanese Language Proficiency Test (JPLT) N3**
+- 🌱 I’m currently learning **AI with Machine Learning**
 - 💬 Ask me about **Android, React, Vue, Python, Firmware**
 - 📫 How to reach me **deshmane.praveen@gmail.com**
 - 👨‍💻 All of my private projects are available at **https://github.com/praveendeshmane**
