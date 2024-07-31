@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [IM-830](https://www.figinc.jp/news/37738/) and [Electronic Logging Device](https://eld-federal-requirements.readthedocs.io/en/master/index.html)
 - 🌱 I’m currently learning **AI, LangChain, Hugging Face, RAG, OpenAI APIs, Gen AI**
-- 💬 Ask me about **Android, React, Node, Java, Vue, Python, Firmware Development(Nordic Semiconductor nRF9160, nRF:Thingy**
+- 💬 Ask me about **Android, React, Node, Java, Vue, Python, Firmware Development(Nordic Semiconductor nRF9160, nRF:Thingy)**
 - 📫 How to reach me **deshmane.praveen@gmail.com**
 - 👨‍💻 All of my private projects are available at **https://github.com/praveendeshmane**
 - 📝 I regularly write articles on **http://blog.praveendeshmane.co.in** (Currently not accessible, domain expired :()
