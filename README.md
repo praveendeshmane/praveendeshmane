@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Konnichiwa🙇‍♂️, I'm Praveen Deshmane</h1>
-<h3 align="center">Versatile and hands-on Deputy General Manager having 8+ years of experience who leads teams to design and implement successful IT projects that align business, IT objectives and deliver rapid results.</h3>
+<h3 align="center">Versatile and hands-on Project Manager having 8+ years of experience who leads teams to design and implement successful IT projects that align business, IT objectives and deliver rapid results.</h3>
 <h3 align="center">In-depth understanding of the ⛟ Telematics Domain, Automotive Domain, 📠 IVR Telecom, 🌍 Location-based services, Firmware Development, 🌐 Web and 📱 Mobile Applications, and WebRTC underpins my ability to lead successful projects in these specialized areas.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveendeshmane&label=Profile%20views&color=0e75b6&style=flat" alt="praveendeshmane" /> </p>
 
