@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveendeshmane&label=Profile%20views&color=0e75b6&style=flat" alt="praveendeshmane" /> </p>
 
 - 🔭 I’m currently working on [IM-830](https://www.figinc.jp/news/37738/) and [Electronic Logging Device](https://eld-federal-requirements.readthedocs.io/en/master/index.html)
-- I’m Currently studying - JLPT N3 🗾
+- I’m Currently studying - JLPT N2 🗾
 - 🌱 I’m currently learning **AI, LangChain, Hugging Face, RAG, OpenAI APIs, Gen AI** 🤖
 - 💬 Ask me about **Android, React, Node, Java, Vue, Python, Firmware Development(Nordic Semiconductor nRF9160, nRF:Thingy)** 🧑🏻‍💻
 - 📫 How to reach me **deshmane.praveen@gmail.com** 📧
